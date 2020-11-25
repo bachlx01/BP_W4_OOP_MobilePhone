@@ -1,0 +1,25 @@
+
+div#iphone {
+    width: 49%;
+    display: inline-block;
+    background-color: aquamarine;
+}
+
+div#samsung {
+    width: 49%;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
+.main {
+    width: 800px;
+    border: 3px solid lavender;
+}
+
+h3 {
+    text-align: center;
+}
+
+input {
+    margin: 5px auto;
+}
